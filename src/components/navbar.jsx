@@ -1,5 +1,4 @@
 import React from "react";
-import News from "./News";
 
 function Navbar() {
   return (
@@ -36,7 +35,6 @@ function Navbar() {
           </div>
         </div>
       </nav>
-      <News />
     </>
   );
 }
