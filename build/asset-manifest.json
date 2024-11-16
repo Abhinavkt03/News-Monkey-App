@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/News-Monkey-App/static/css/main.31d6cfe0.css",
+    "main.js": "/News-Monkey-App/static/js/main.70ac26ee.js",
+    "index.html": "/News-Monkey-App/index.html",
+    "main.70ac26ee.js.map": "/News-Monkey-App/static/js/main.70ac26ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.70ac26ee.js"
+  ]
+}
